@@ -65,4 +65,6 @@ If the distance is below 10 cm, the pump turns ON.
 
 ## Author
 
-Built using Arduino and Ultrasonic Sensor technology.
+Sebastian Akaxoxo
+
+LinkedIn: [https://www.linkedin.com/in/sakaxo/](https://www.linkedin.com/in/sakaxo/)
